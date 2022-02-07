@@ -20,5 +20,10 @@ operator
 if...else
 calculator
 
+Day-4
+Switch case
+
+//block / statement / expression /scope of variable
+
 
 
