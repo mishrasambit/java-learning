@@ -23,7 +23,19 @@ calculator
 Day-4
 Switch case
 
+
+
+Day-5
+Loop
+-while, 
+-do...while, 
+-for
+
+Day-6
+Break, continue
+Arrays
+String
+Math
+TypeCasting
 //block / statement / expression /scope of variable
-
-
-
+for (String i : cars)
