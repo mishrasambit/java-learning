@@ -35,7 +35,30 @@ Day-6
 Break, continue
 Arrays
 String
+
+Day-7
 Math
 TypeCasting
 //block / statement / expression /scope of variable
 for (String i : cars)
+
+
+Day-8
+OOP 
+4 building blocks or pillars in OOProgramming
+encapsulation abstraction inheritence and polymorphism
+Class Object
+creating object using new keyword
+attributes
+assigning value to attribute
+reassinging value to attribute
+
+
+Day-9
+java methods
+
+
+
+//modifier - final,
+
+Da
